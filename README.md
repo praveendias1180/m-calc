@@ -3,6 +3,8 @@
 Visit the live site.
 https://praveendias1180.github.io/m-calc/
 
+![03-mortgage-slider](./images/03-mortgage-slider.jpg)
+
 # Mortgage Slider
 
 When you drag the slider beyond 85%, it shows you a snack bar. In this snack bar, there is an UNDO button. When you click, it changes the value back to 85%. This is useful functionality for mortgage calculators. Because the loan amount should be less than 85% of the underlying security.
